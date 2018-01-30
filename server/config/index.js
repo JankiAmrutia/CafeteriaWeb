@@ -6,7 +6,7 @@
  const mongoose =  require('mongoose');
 //import { DB_URL } from './index';
 //import logger from '../utils/logger';
-const DB_URL = 'mongodb://meraju:meraju123@ds041484.mlab.com:41484/commentsdb'
+const DB_URL = 'mongodb://Hackathon-user:mlab123@ds117758.mlab.com:17758/cafeteria'
 //mongodb://meraju:meraju123@ds041484.mlab.com:41484/commentsdb
 //mongodb://Hackathon-user:mlab123@ds117758.mlab.com:17758/cafeteria
 
