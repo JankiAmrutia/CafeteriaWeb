@@ -4,9 +4,7 @@
     "description": "Cafeteria web server side code",
     "main": "server.js",
     "scripts": {
-        "test": "NODE_ENV=test mocha  --timeout 10000 --compilers js:babel-core/register",
-        "start": "NODE_ENV=production $(npm bin)/babel-node server.js",
-        "dev": "$(npm bin)/nodemon ./server.js --exec babel-node"
+      "start": "nodemon server.js --exec babel-node"
     },
     "repository": {
         "type": "git",
