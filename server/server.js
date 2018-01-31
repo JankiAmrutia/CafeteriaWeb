@@ -1,2 +1,2 @@
-import config from  './config'
+import config from  './config/db.js'
 config.open();
